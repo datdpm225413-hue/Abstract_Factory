@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DPM224513_NguyenTienDat_Pattern01_Abstract Factory/1.0.0": {
+        "runtime": {
+          "DPM224513_NguyenTienDat_Pattern01_Abstract Factory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPM224513_NguyenTienDat_Pattern01_Abstract Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
